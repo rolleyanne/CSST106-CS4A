@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/61633f9f-f1d4-4681-9207-0eaaca9a213e
+
+
 # Introduction to Computer Vision and Image Processing
 **Computer Vision (CV)** is a branch of AI that enables machines to interpret and understand visual data, replicating human vision. It is used in applications like facial recognition, 
 autonomous driving, and medical imaging. Image processing plays a crucial role in CV by transforming raw images into formats that AI systems can analyze. It enhances image quality,
